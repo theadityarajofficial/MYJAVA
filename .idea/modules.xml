@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binaryns/Binaryns.iml" filepath="$PROJECT_DIR$/Binaryns/Binaryns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditionals/Conditionals.iml" filepath="$PROJECT_DIR$/Conditionals/Conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Function/Function.iml" filepath="$PROJECT_DIR$/Function/Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/Loop.iml" filepath="$PROJECT_DIR$/Loop/Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyJava.iml" filepath="$PROJECT_DIR$/MyJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PWSKILLS/PWSKILLS.iml" filepath="$PROJECT_DIR$/PWSKILLS/PWSKILLS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern Printing II/Pattern Printing II.iml" filepath="$PROJECT_DIR$/Pattern Printing II/Pattern Printing II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternPrinting/PatternPrinting.iml" filepath="$PROJECT_DIR$/PatternPrinting/PatternPrinting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relational Operator/Relational Operator.iml" filepath="$PROJECT_DIR$/Relational Operator/Relational Operator.iml" />
+    </modules>
+  </component>
+</project>
